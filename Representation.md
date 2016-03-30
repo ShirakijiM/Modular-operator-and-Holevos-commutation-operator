@@ -25,12 +25,12 @@ In fact
 On the other hand, \(r(A):\mathfrak{N}\in X \to XA\ni\mathfrak{N}\) is 
 represented as \(\tilde{r}(A)=I_n\otimes A^T\) on \(\mathbb{C}^n\otimes \mathbb{C}^n\).
 In fact
- $$
+ \[
  \begin{split}
  v(r(A)e_je_k^T)&=v(e_je_k^TA)=v(e_j(A^\ast e_k)^\ast)=e_j\otimes \overline{A^\ast e_k}\\
  &= e_j \otimes A^T e_k= (I_n\otimes A^T)e_j\otimes  e_k=\tilde{r}(A)v(e_je_k^T),
  \end{split} 
- $$
+ \]
  and hence \(r(A)=v^{\ast}\tilde{r}(A) v\). 
 
 
