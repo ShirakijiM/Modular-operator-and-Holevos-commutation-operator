@@ -21,23 +21,23 @@ $$
 [A,X]=\langle A, \mathfrak{D}X\rangle.
 $$
 The operator \(\mathfrak{D}\), called a commutation operator, plays an important role in the quantum estimation thoery.
-We consider $\mathfrak{N}$ as a Hilbert-Shmidt space with the inner product
+We consider \(\mathfrak{N}\) as a Hilbert-Shmidt space with the inner product
 $$
 \langle A, B \rangle_2 =\mbox{Tr}(A^{\ast}B),
 $$
-and denote it by $\mathfrak{H}_2$.
+and denote it by \(\mathfrak{H}_2\).
 Then we get a $\ast$-representation 
 $$
 \ell :\mathfrak{N}\to \mathfrak{B}(\mathfrak{H}_2),
 $$
-where $\mathfrak{B}(\mathfrak{H}_2)$ is the ensemble of bounded operators on $\mathfrak{H}_2$
-and $\ell(A)B=AB$.
+where \(\mathfrak{B}(\mathfrak{H}_2)\) is the ensemble of bounded operators on \(\mathfrak{H}_2\)
+and \(\ell(A)B=AB\).
 
-The state $\omega$ can be written by the inner product $\langle \cdot, \cdot\rangle_2$ as 
+The state \(\omega\) can be written by the inner product \(\langle \cdot, \cdot\rangle_2\) as 
 $$
 \omega(A)=\mbox{Tr}(\rho^{1/2}A\rho^{1/2})=\langle \rho^{1/2},\ell(A)\rho^{1/2}\rangle_2 .
 $$
-Now we can define the modular operator $\Delta$ for the von Neumann algebra $\mathfrak{M}=\ell(\mathfrak{N})$ and its cyclic separating vector $\rho^{1/2}$. 
+Now we can define the modular operator $\Delta$ for the von Neumann algebra \(\mathfrak{M}=\ell(\mathfrak{N})\) and its cyclic separating vector \(\rho^{1/2}\). 
 Our purpose is to show such derived modular operator is related to the commutation operator
 as
 $$
