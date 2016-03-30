@@ -1,26 +1,26 @@
 We will do an exercise given in the Holevo's book in the simplest case. 
 Let us start with GNS construction for the 
 on Neumann algebra \( \mathfrak{N}=M_n(\mathbb{C})\), which is the ensemble of bounded linear operators on 
-the Hilbert space $\mathfrak{H}=\mathbb{C}^n$ with the inner product $(x,y)=\bar{x}^Ty$. 
+the Hilbert space \( \mathfrak{H}=\mathbb{C}^n\) with the inner product \((x,y)=\bar{x}^Ty\). 
  
 Let $\rho$ be a non-degenerated density operator and 
-$\omega$ be the corresponding normal state given by $\omega(A)=\mbox{Tr}\rho A$.
-Considering an inner product on $\mathfrak{N}$
+$\omega$ be the corresponding normal state given by \(\omega(A)=\mbox{Tr}\rho A\).
+Considering an inner product on \(\mathfrak{N}\)
 
 $$
 \langle A, B \rangle =\frac{1}{2}\omega(BA^{\ast}+A^{\ast}B),
 $$
-and a bilinear form on $\mathfrak{N}$
+and a bilinear form on \(\mathfrak{N}\)
 </p>
 $$
 [A,B]=i\omega(A^{\ast}B-BA^{\ast}),
 $$
 
-we introduce an operator $\mathfrak{D}$ by 
+we introduce an operator \(\mathfrak{D}\) by 
 $$
 [A,X]=\langle A, \mathfrak{D}X\rangle.
 $$
-The operator $\mathfrak{D}$, called a commutation operator, plays an important role in the quantum estimation thoery.
+The operator \(\mathfrak{D}\), called a commutation operator, plays an important role in the quantum estimation thoery.
 We consider $\mathfrak{N}$ as a Hilbert-Shmidt space with the inner product
 $$
 \langle A, B \rangle_2 =\mbox{Tr}(A^{\ast}B),
