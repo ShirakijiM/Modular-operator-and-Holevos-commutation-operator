@@ -1,9 +1,12 @@
 ## Representation on \(\mathfrak{H}\otimes\mathfrak{H}\)
+
 We can identify the Hilbert-Schmidt space \(\mathfrak{H}_2=\mathfrak{N}=M_n(\mathbb{C})\) on \(\mathfrak{H}=\mathbb{C}^n\) with \(\mathfrak{H}\otimes\mathfrak{H}\)
 by a unitary operator satisfying 
-$$
+
+\[
 v(e_je_k^T)=e_j\otimes e_k
-$$
+\]
+
 where \(e_j=(\delta_{j1},\delta_{j,2},...,\delta_{j,n})^T\) with the Kronecker delta \(\delta_{j,l}\). 
 For \(\psi=\sum_j \lambda_j e_j\) and \(\phi=\sum_k \mu_k e_k\)
 we have
