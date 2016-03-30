@@ -1,3 +1,4 @@
+## Introduction
 We will do an exercise given in the Holevo's book in the simplest case. 
 Let us start with GNS construction for the 
 on Neumann algebra \( \mathfrak{N}=M_n(\mathbb{C})\), which is the ensemble of bounded linear operators on 
