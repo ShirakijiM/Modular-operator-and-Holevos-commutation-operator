@@ -1,1 +1,1 @@
-Double click to edit the title
+Modular operator and Holevo's commutation operator
