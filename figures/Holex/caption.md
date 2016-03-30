@@ -1,1 +1,1 @@
-Replace this text with your caption
+Problem posed in the Holevo's book
