@@ -1,7 +1,7 @@
 \section{Introduction}
-We will do an exercise given in the Holevo's paper \cite{Holevo_1977} in the simplest case. 
-Let us start with GNS construction for the 
-on Neumann algebra $\mathfrak{N}=M_n(\mathbb{C})$, which is the ensemble of bounded linear operators on 
+This paper review results about a modular operator and a Holevo's commutation operator in the simplest case.
+We consider the von Neumann algebra $\mathfrak{N}=M_n(\mathbb{C})$, 
+which is the ensemble of bounded linear operators on 
 the Hilbert space $\mathfrak{H}=\mathbb{C}^n$ with the inner product $(x,y)=\bar{x}^Ty$. 
 
 Let $\rho$ be a non-degenerated density operator and 
@@ -13,16 +13,14 @@ Considering an inner product on $\mathfrak{N}$
 \langle A, B \rangle =\frac{1}{2}\omega(BA^{\ast}+A^{\ast}B),
 \end{equation}
 and a bilinear form on $\mathfrak{N}$
-
-$$
+\begin{equation}
 [A,B]=i\omega(A^{\ast}B-BA^{\ast}),
-$$
-
+\end{equation}
 we introduce an operator $\mathfrak{D}$ by 
-$$
+\begin{equation}
 [A,X]=\langle A, \mathfrak{D}X\rangle.
-$$
-The operator $\mathfrak{D}$, called a commutation operator, plays an important role in the quantum estimation thoery.
+\end{equation}
+The operator $\mathfrak{D}$, called a commutation operator, plays an important role in the quantum estimation theory.
 We consider $\mathfrak{N}$ as a Hilbert-Shmidt space with the inner product
 $$
 \langle A, B \rangle_2 =\mbox{Tr}(A^{\ast}B),
@@ -34,13 +32,12 @@ $$
 $$
 where $\mathfrak{B}(\mathfrak{H}_2)$ is the ensemble of bounded operators on $\mathfrak{H}_2$
 and $\ell(A)B=AB$.
-
 The state $\omega$ can be written by the inner product $\langle \cdot, \cdot\rangle_2$ as 
 $$
 \omega(A)=\mbox{Tr}(\rho^{1/2}A\rho^{1/2})=\langle \rho^{1/2},\ell(A)\rho^{1/2}\rangle_2 .
 $$
 Now we can define the modular operator $\Delta$ for the von Neumann algebra $\mathfrak{M}=\ell(\mathfrak{N})$ and its cyclic separating vector $\rho^{1/2}$. 
-Our purpose is to show such derived modular operator is related to the commutation operator
+Our purpose is to see such derived modular operator is related to the commutation operator
 as
 $$
     \Delta=\left(1+\frac{i}{2}\mathfrak{D}\right)\left(1-\frac{i}{2}\mathfrak{D}\right)^{-1}.
