@@ -1,5 +1,4 @@
 Introduction.tex
-figures/Holex/Holex.png
 section_Representation_on_mathfrak_H__.tex
 section_Modular_Operator_We_give__.tex
 section_Relation_between_Holevo_s__.tex
