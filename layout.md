@@ -1,5 +1,4 @@
 Introduction.tex
-figures/Holevobook/Holevobook.png
 figures/Holex/Holex.png
 section_Representation_on_mathfrak_H__.tex
 section_Modular_Operator_We_give__.tex
