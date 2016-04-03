@@ -55,7 +55,10 @@ Thus
 $$
 \Delta(X)=FS(X)=F(\rho^{-1/2}X^*\rho^{1/2})=\rho^{1/2}(\rho^{-1/2}X^*\rho^{1/2})^\ast \rho^{-1/2}=\rho X \rho^{-1},
 $$
-that is, $\Delta=v^\ast(\rho \otimes ({\rho}^{-1})^T) v$.
+that is, 
+$$
+\Delta=v^\ast(\rho \otimes ({\rho}^{-1})^T) v.
+$$
 It follows that $\Delta^\ast=v^\ast (\rho\otimes({\rho}^{-1})^T)^\ast v=\Delta$.
 Since $\Delta^{-1/2}=v^\ast(\rho^{-1/2}\otimes ({\rho}^{1/2})^T) v$, 
 $$
@@ -68,22 +71,19 @@ $$
 where $J$ is an anti-linear operator defined by $J(X)=X^\ast$.
 In a similar way we have
 $$
-F(X)=\Delta^{1/2}J(X),
+F(X)=\Delta^{1/2}J(X).
 $$
-and
+Since
+$$\Delta^{-it}\ell(A)\Delta^{it}(X)=\Delta^{-it}(A\rho^{it}X\rho^{-it})=\rho^{-it}A\rho^{it}X\rho^{-it}\rho^{it}=\rho^{-it}A\rho^{it}X$$
+and 
 $$
-J\Delta J(X)=(\rho X^\ast \rho^{-1})^\ast=\rho^{-1}X\rho=\Delta^{-1}(X).
+\ell(\rho^{-it}A\rho^{it})X=\rho^{-it}A\rho^{it}X,
 $$
-We have 
+we have 
 $$
 \Delta^{-it}\ell(A)\Delta^{it}=\ell(\rho^{-it}A\rho^{it}).
 $$
-Indeed $$\Delta^{-it}\ell(A)\Delta^{it}(X)=\Delta^{-it}(A\rho^{it}X\rho^{-it})=\rho^{-it}A\rho^{it}X\rho^{-it}\rho^{it}=\rho^{-it}A\rho^{it}X$$
-and 
-$$
-\ell(\rho^{-it}A\rho^{it})X=\rho^{-it}A\rho^{it}X.
-$$
-Thus
+Thus we obtain the main results it holds
 $$
 \Delta^{-it}\mathfrak{M}\Delta^{it}=\mathfrak{M}.
 $$
