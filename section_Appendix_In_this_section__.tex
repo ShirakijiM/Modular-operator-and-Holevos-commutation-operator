@@ -8,7 +8,8 @@ Then we define operators $\tilde{S},\tilde{F},\tilde{\Delta}$ on $\cal{K}$ as
 \begin{split}
 \tilde{S}&:\tilde{\mathfrak{N}}\xi\ni X\xi \to X^\ast \xi \in \tilde{\mathfrak{N}}\xi,\\
 \tilde{F}&:\tilde{\mathfrak{N}}^\prime\xi\ni Y\xi \to Y^\ast \xi \in \tilde{\mathfrak{N}}^\prime\xi,\\
-\tilde{\Delta}&=\tilde{F}\tilde{S}.
+\tilde{\Delta}&=\tilde{F}\tilde{S},\\
+\tilde{S}&=\tilde{Delta}^{-1/2}\tilde{J}, \tilde{F}=\tilde{Delta}^{1/2}\tilde{J}.
 \end{split}
 \end{equation}
 The Wedderburn theorem states that a finite dimensional $C^{\ast}$ algebra is  $\ast$-isomorphic to a direct sum of simple matrix algebras. That is, there exists $\ast$-isomorphic function $\varphi$ for von Neumann algebra $\mathfrak{N}$ such that
@@ -27,9 +28,8 @@ Applying the discussion in the previous sections to the von Neumann algebra $\ma
 $\omega$, we get
 the von Neumann algebra $\mathfrak{M}=\ell (\mathfrak{N})$ on  
 $\mathfrak{H}_2$, the cyclic separating vector $\rho^{1/2}\in \mathfrak{H}_2$
-and the operators on $\mathfrak{H}_2$, $S, F$ and $\Delta$.
-
-Then we obtain
+and the operators on $\mathfrak{H}_2$, $S, F, J$ and $\Delta$.
+In particular we have
 $$
 \langle \pi(A)\rho^{1/2},\pi( B)\rho^{1/2}\rangle_2=(\varphi^{-1}(A)\xi,\varphi^{-1}(B)\xi)_\mathfrak{K},
 $$
@@ -38,10 +38,11 @@ $$
 U:\mathfrak{H}_2\ni\pi(A)\rho^{1/2}\to \varphi^{-1}(A)\xi\in\mathfrak{K}, \quad A\in \mathfrak{N}
 $$
 gives a unitary operator from $\mathfrak{H}_2$ to $\mathfrak{K}$.
-This unitary operator combines $\Delta$ and $\tilde{\Delta}$ as
-$$
-\tilde{\Delta}=U\Delta U^{\ast},
-$$
+This unitary operator gives the following relations between operators on $\mathfrak{H}_2$ and $\mathfrak{K}$,
+\begin{equation}
+\tilde{\Delta}&=U\Delta U^{\ast},\\
+\tilde{J}&=UJU^\ast ,
+\end{equation}
 and gives the main result of Tomita-Takesaki Theory,
 $$
 \tilde{\Delta}^{-it}\tilde{\mathfrak{N}}\tilde{\Delta}^{it}=\tilde{\mathfrak{N}}.
