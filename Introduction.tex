@@ -5,15 +5,21 @@ which is the ensemble of bounded linear operators on
 the Hilbert space $\cal{H}=\mathbb{C}^n$ with the inner product $(x,y)=\bar{x}^Ty$. 
 Let $\rho$ be a non-degenerated density operator and 
 $\omega$ be the corresponding normal state given by $\omega(A)=\mbox{Tr}\rho A$.
-Considering an inner product on $\mathfrak{N}$
+We regard $\mathfrak{N}$ as a Hilbert space with an inner product
 \begin{equation}
 \label{innerP}
 \langle A, B \rangle =\frac{1}{2}\omega(BA^{\ast}+A^{\ast}B),
 \end{equation}
-and a bilinear form on $\mathfrak{N}$
-\begin{equation}
-[A,B]=i\omega(A^{\ast}B-BA^{\ast}),
+and denote it by $\mathfrak{H}$.
+In the quantum theory we consider additional bilinear form on $\mathfrak{H}$ 
+\begin{equation}\label{Bform}
+[A,B]=i\omega(A^{\ast}B-BA^{\ast}).
 \end{equation}
+Using Eqs. (\ref{innerP}) and (\ref{Bform}) we obtain 
+$$
+\langle X, X\rangle \geq \pm \frac{i}{2}[X,X],
+$$
+which yields the most general form of the uncertainty relation \cite{Holevo_1977}.
 we introduce an operator $\mathfrak{D}$ by 
 \begin{equation}\label{Copr}
 [A,X]=\langle A, \mathfrak{D}X\rangle.
