@@ -1,3 +1,3 @@
 #### Acknowledgement
 
-I am grageful to A. Ohashi, T.Sogabe and T. Usuda for helpful discussions.
+I am grateful to A. Ohashi, T. Sogabe and T. Usuda for helpful discussions.
