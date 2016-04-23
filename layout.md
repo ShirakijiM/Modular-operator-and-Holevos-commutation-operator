@@ -9,5 +9,6 @@ Here_ell_A_ast_v__.tex
 Thus_Delta_X_FS_X__.tex
 Since_begin_equation_begin_split__.tex
 section_Relation_between_Holevo_s__.tex
+Moreover_begin_equation_begin_split__.tex
 section_Appendix_In_this_section__.tex
 acknowledgement.md
