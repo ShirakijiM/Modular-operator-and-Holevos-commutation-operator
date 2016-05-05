@@ -1,7 +1,6 @@
 Introduction.tex
 On_the_other_hand_we__.tex
 section_Representation_on_cal_H__.tex
-On_the_other_hand_r__.tex
 section_Modular_Operator_We_give__.tex
 Here_ell_A_ast_v__.tex
 Thus_Delta_X_FS_X__.tex
