@@ -2,7 +2,6 @@ Introduction.tex
 On_the_other_hand_we__.tex
 section_Representation_on_cal_H__.tex
 section_Modular_Operator_We_give__.tex
-Thus_Delta_X_FS_X__.tex
 Since_begin_equation_begin_split__.tex
 section_Relation_between_Holevo_s__.tex
 Moreover_begin_equation_label_plusD__.tex
