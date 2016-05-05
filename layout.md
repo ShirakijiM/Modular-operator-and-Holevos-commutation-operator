@@ -1,7 +1,7 @@
 Introduction.tex
 In_the_quantum_theory_we__.tex
 On_the_other_hand_we__.tex
-Remark_In_the_present_case__.tex
+bf_Remark_In_the_present__.tex
 section_Representation_on_cal_H__.tex
 On_the_other_hand_r__.tex
 section_Modular_Operator_We_give__.tex
