@@ -1,6 +1,5 @@
 Introduction.tex
 On_the_other_hand_we__.tex
-As_stated_in_Sec_3__.tex
 section_Representation_on_cal_H__.tex
 On_the_other_hand_r__.tex
 section_Modular_Operator_We_give__.tex
