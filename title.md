@@ -1,1 +1,1 @@
-Modular operator and Holevo's commutation operator
+On the Relation between Modular operator and Holevo's commutation operator
