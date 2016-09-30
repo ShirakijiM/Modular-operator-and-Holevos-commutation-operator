@@ -1,1 +1,1 @@
-{\it Abstract} - We report on verification of the relation between the Holevo's commutation operator and the modular operator.
+Abstract - We report on verification of the relation between the Holevo's commutation operator and the modular operator.
