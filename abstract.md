@@ -1,1 +1,1 @@
-Abstract - We report on verification of the relation between the Holevo's commutation operator and the modular operator.
+We report on verification of the relation between the Holevo's commutation operator and the modular operator.
